@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0EF1DEB-211A-41D7-8CA8-FEC9ED61BECF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Planets in Solar System</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C7EB420854FA1730F2B7943924A24DD70749399B</key>
+		<string>https://github.com/lam9009/Planets-in-Solar-System.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Planets in Solar System.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C7EB420854FA1730F2B7943924A24DD70749399B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lam9009/Planets-in-Solar-System.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C7EB420854FA1730F2B7943924A24DD70749399B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C7EB420854FA1730F2B7943924A24DD70749399B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Planets%20in%20Solar%20System</string>
+		</dict>
+	</array>
+</dict>
+</plist>

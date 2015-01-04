@@ -19,6 +19,7 @@
 		DF12CBF51A55EFD00054316E /* Saturn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF12CBEB1A55EFD00054316E /* Saturn.jpg */; };
 		DF12CBF61A55EFD00054316E /* Uranus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF12CBEC1A55EFD00054316E /* Uranus.jpg */; };
 		DF12CBF71A55EFD00054316E /* Venus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF12CBED1A55EFD00054316E /* Venus.jpg */; };
+		DF3D6DA41A59EB1100EE3D09 /* testOnly.m in Sources */ = {isa = PBXBuildFile; fileRef = DF3D6DA31A59EB1100EE3D09 /* testOnly.m */; };
 		DF5B34561A55148E00778433 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5B34551A55148E00778433 /* main.m */; };
 		DF5B34591A55148E00778433 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5B34581A55148E00778433 /* AppDelegate.m */; };
 		DF5B345F1A55148E00778433 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF5B345D1A55148E00778433 /* Main.storyboard */; };
@@ -54,6 +55,8 @@
 		DF12CBEB1A55EFD00054316E /* Saturn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Saturn.jpg; sourceTree = "<group>"; };
 		DF12CBEC1A55EFD00054316E /* Uranus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Uranus.jpg; sourceTree = "<group>"; };
 		DF12CBED1A55EFD00054316E /* Venus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Venus.jpg; sourceTree = "<group>"; };
+		DF3D6DA21A59EB1100EE3D09 /* testOnly.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testOnly.h; sourceTree = "<group>"; };
+		DF3D6DA31A59EB1100EE3D09 /* testOnly.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testOnly.m; sourceTree = "<group>"; };
 		DF5B34501A55148E00778433 /* Planets in Solar System.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Planets in Solar System.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF5B34541A55148E00778433 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DF5B34551A55148E00778433 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -135,6 +138,8 @@
 				DF5B34801A55165C00778433 /* PlanetsTableVC.m */,
 				DF12CBE01A55EF3F0054316E /* spaceObject.h */,
 				DF12CBE11A55EF3F0054316E /* spaceObject.m */,
+				DF3D6DA21A59EB1100EE3D09 /* testOnly.h */,
+				DF3D6DA31A59EB1100EE3D09 /* testOnly.m */,
 				DF5B34601A55148E00778433 /* Images.xcassets */,
 				DF5B34621A55148E00778433 /* LaunchScreen.xib */,
 				DF5B34531A55148E00778433 /* Supporting Files */,
@@ -286,6 +291,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF5B34591A55148E00778433 /* AppDelegate.m in Sources */,
+				DF3D6DA41A59EB1100EE3D09 /* testOnly.m in Sources */,
 				DF12CBE21A55EF3F0054316E /* spaceObject.m in Sources */,
 				DF5B34561A55148E00778433 /* main.m in Sources */,
 				DF6FCE8E1A56432900779589 /* solarData.m in Sources */,
